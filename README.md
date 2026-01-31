@@ -1,7 +1,5 @@
 # 🌬️ Fan Project – Pomodoro Breeze  
-**집중력 관리 선풍기 (STM32 기반)**
-
----
+**STM32 기반 집중력 관리 선풍기**
 
 ## 📌 프로젝트 소개
 
