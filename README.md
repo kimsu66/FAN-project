@@ -58,7 +58,7 @@
 
 ## ⚙️ 시스템 구성
 
-- **MCU**: STM32 (HAL 기반)
+- **MCU**: STM32
 - **개발 환경**: STM32CubeIDE
 - **입출력 구성**
   - Button 입력
